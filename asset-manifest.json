@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.3302c257.chunk.css",
-  "main.js": "/static/js/main.59a499ad.chunk.js",
-  "main.js.map": "/static/js/main.59a499ad.chunk.js.map",
-  "static/js/1.7384492a.chunk.js": "/static/js/1.7384492a.chunk.js",
-  "static/js/1.7384492a.chunk.js.map": "/static/js/1.7384492a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.3302c257.chunk.css.map": "/static/css/main.3302c257.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.22495b23676e24a756c3ce432539ad52.js": "/precache-manifest.22495b23676e24a756c3ce432539ad52.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/appitierre-test/static/css/main.3302c257.chunk.css",
+  "main.js": "/appitierre-test/static/js/main.59a499ad.chunk.js",
+  "main.js.map": "/appitierre-test/static/js/main.59a499ad.chunk.js.map",
+  "static/js/1.7384492a.chunk.js": "/appitierre-test/static/js/1.7384492a.chunk.js",
+  "static/js/1.7384492a.chunk.js.map": "/appitierre-test/static/js/1.7384492a.chunk.js.map",
+  "runtime~main.js": "/appitierre-test/static/js/runtime~main.bbf1b082.js",
+  "runtime~main.js.map": "/appitierre-test/static/js/runtime~main.bbf1b082.js.map",
+  "static/css/main.3302c257.chunk.css.map": "/appitierre-test/static/css/main.3302c257.chunk.css.map",
+  "index.html": "/appitierre-test/index.html",
+  "precache-manifest.ac621db1488178f6c28f8a8aac3efbcb.js": "/appitierre-test/precache-manifest.ac621db1488178f6c28f8a8aac3efbcb.js",
+  "service-worker.js": "/appitierre-test/service-worker.js"
 }
